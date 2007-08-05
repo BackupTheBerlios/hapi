@@ -1,0 +1,77 @@
+a:link
+{
+	color: rgb(51,51,204);
+}
+a:visited
+{
+	color: rgb(102,102,153);
+}
+a:active
+{
+	color: rgb(153,0,153);
+}
+body
+{
+	background-color: rgb(255,255,255);
+}
+h2
+{
+	color: rgb(0,51,102);
+}
+HR
+{
+	color: rgb(0, 51, 102);
+}
+BUTTON 
+{
+	background-color: rgb(0,51,102);	
+	border-color: rgb(192,192,192);
+	color: white;
+}
+TEXTAREA
+{
+	border-color: rgb(0,51,102);
+	color: black;
+}
+TABLE
+{	
+	table-border-color-light: rgb(192,192,192);
+	table-border-color-dark: rgb(0,51,102);
+	border-color: rgb(0,51,102);
+	color: rgb(0,0,102);
+	text-align: left;
+	width: 100%;
+}
+TH
+{
+	color: rgb(0,0,102);
+	border-color: rgb(0,51,102);
+}
+TD
+{
+	border-color: rgb(0,51,102);
+}
+.TITRETABLE
+{
+	color: rgb(0,128,0);
+}
+.SOUSTABLE
+{
+	color: rgb(255,0,0);
+}
+.PILOTEPROCESSUS
+{
+	color: rgb(128,0,0);
+}
+LI
+{
+	color: rgb(0,0,0);
+}
+.NIVEAUENCOURS
+{
+	background-color: rgb(255, 204, 102);
+}
+.PREMIERELIGNETABLE
+{
+	background-color: rgb(218, 218, 218);
+}
